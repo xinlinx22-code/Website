@@ -1,0 +1,13 @@
+{
+  "name": "website-ip-logger",
+  "version": "1.0.0",
+  "description": "Website pengujian dengan pencatatan data teknis secara aman",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "express": "^5.1.0"
+  }
+}
